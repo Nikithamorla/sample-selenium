@@ -1,0 +1,3 @@
+2020-03-25 11:16:57,955 [main] INFO LogDemo - Chrome Driver Opened
+2020-03-25 11:17:10,889 [main] INFO LogDemo - Navigated to URL
+2020-03-25 11:17:12,199 [main] INFO LogDemo - Browser Maximized
